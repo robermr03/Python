@@ -1,0 +1,1 @@
+Los ejercicios realizados en este repositorio son de https://aprendeconalf.es/docencia/python/ejercicios/tipos-datos/
